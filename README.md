@@ -4,6 +4,13 @@
 - 🌱 Estou estudando front-end e desenvolvimento de jogos;
 - 😄 Pronomes: ela/dela.
 
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaAbreu04&show_icons=true&theme=jolly">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAbreu04&layout=compact&theme=jolly">
+  <br>
+  GitHub Stats by <a href="https://github.com/anuraghazra">Anurag Hazra</a>.
+</div>
+
 
 <br>
 
