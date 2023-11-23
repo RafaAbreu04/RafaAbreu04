@@ -1,7 +1,7 @@
 ## Olá, me chamo Rafaelly Abreu e estudo Jogos Digitais.
 
 - 🔭 Buscando estágio na área de jogos e programação, disposta a aprender variadas linguagens;
-- 🌱 Estou desenvolvimento de jogos;
+- 🌱 Estou estudando desenvolvimento de jogos;
 - 😄 Pronomes: ela/dela.
 
 <div>
