@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafaelly Abreu e estou em busca de estágio
 
-- 🔭 Buscando estágio na área de desenvolvimento com uso de C# ou em gerenciamento de projetos.
+- 🔭 Buscando estágio na área de tecnologia e relacionadas.
 - 🌱 Estou cursando Bacharelado de Jogos Digitais;
 - 😄 Pronomes: ela/dela.
 
