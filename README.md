@@ -1,7 +1,7 @@
 ## Olá, me chamo Rafaelly Abreu e estou em busca de estágio
 
 - 🔭 Buscando estágio na área de desenvolvimento com uso de C# ou em gerenciamento de projetos.
-- 🌱 Estou no último ano de Bacharelado de Jogos Digitais;
+- 🌱 Estou cursando Bacharelado de Jogos Digitais;
 - 😄 Pronomes: ela/dela.
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaAbreu04&show_icons=true&theme=jolly">
