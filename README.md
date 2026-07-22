@@ -1,7 +1,7 @@
-## Olá, me chamo Rafaelly Abreu e estou em busca de estágio
+## Olá, me chamo Rafaelly Abreu
 
-- 🔭 Buscando estágio na área de tecnologia e relacionadas.
-- 🌱 Estou cursando Bacharelado de Jogos Digitais;
+- 🔭 Atualmente sou Auxiliar Técnica de Automação no Grupo Altum, mas estou aberta a vagas de Analista de BI Jr. ou Analista de Dados Jr.
+- 🌱 Formada em Jogos Digitais.
 - 😄 Pronomes: ela/dela.
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaAbreu04&show_icons=true&theme=jolly">
